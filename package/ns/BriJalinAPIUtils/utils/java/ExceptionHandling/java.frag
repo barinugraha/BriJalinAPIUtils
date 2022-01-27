@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">ExceptionHandling</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClN0cmlu
+ZyBKQVZBX1NFUlZJQ0UgPSAiW0V4Y2VwdGlvbkhhbmRsaW5nXSAiOw0KU3RyaW5nIHBheWxvYWQg
+PSBJRGF0YVV0aWwuZ2V0U3RyaW5nKHBpcGVsaW5lQ3Vyc29yLCAicGF5bG9hZCIpOw0KbG9nTWVz
+c2FnZVRvU2VydmVyTG9nKHBpcGVsaW5lLCBKQVZBX1NFUlZJQ0UgKyAicGF5bG9hZCA9ICIgKyBw
+YXlsb2FkKTsNCnBpcGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCgkJDQpJRGF0YUN1cnNvciBwaXBl
+bGluZUN1cnNvck91dCA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlw
+ZWxpbmVDdXJzb3JPdXQsICJzdGF0dXNDb2RlIiwgSW50ZWdlci5wYXJzZUludChwYXlsb2FkLnNw
+bGl0KCIjIilbMV0pKTsNCklEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yT3V0LCAic3RhdHVz
+TWVzc2FnZSIsIHBheWxvYWQuc3BsaXQoIiMiKVsyXSk7DQpwaXBlbGluZUN1cnNvck91dC5kZXN0
+cm95KCk7</value>
+</Values>
